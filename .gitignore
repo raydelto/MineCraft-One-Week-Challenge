@@ -14,5 +14,6 @@ Release/
 
 
 # Builds
+build/
 bin/
 Makefile
